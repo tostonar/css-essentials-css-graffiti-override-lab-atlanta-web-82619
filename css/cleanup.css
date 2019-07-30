@@ -2,6 +2,6 @@
   display: none;
 }
 
-div.tag-1 + div#tag-2 {
+div#wall  div#tag-2 {
   display: none;
 }
